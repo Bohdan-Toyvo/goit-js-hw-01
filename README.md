@@ -1,3 +1,3 @@
-# my-first-project
+# my-first-project-js
 
-This is my first project.
+This is my first task by js
